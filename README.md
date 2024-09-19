@@ -27,7 +27,7 @@ The application performs basic CRUD operations on a sample entity(user).
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone <[https://github.com/firdoushassan/fullstack-crudapp]>
+   git clone [https://github.com/firdoushassan/fullstack-crudapp]
    cd fullstack-crudapp\src\main\java\com\crudapp\fullstack_crudapp
    ```
 2. Configure MySQL:
